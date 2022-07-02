@@ -1,4 +1,14 @@
 ### Hi there 👋
+I'm an effective learner, quickly adapdable, teamworker, software engineer, and researcher.<br> 
+Here I share the codes I developed for my publications, worked down for clients [not whole works, just parts to share experiences], teaching courses I delivered so far.
+
+# 🌱 What I'm doing now as a software engineer
+I am doing software engineering at the moment using C# and .NET for the next generation of high-speed data acquisition systems compatible with industry 4.0 specifications. Site investigation using CPT/CPTu/SPT/SCPT/WISON have alot of complexitities and existing software in the market can not takle all complexities because uncertainity is alot. Hence the software, I have done the architectural design with well-defined interfaces and am implementining now, is able to find the source of errors and correct the data real-time. As a result, post-processing, which normally takes sevaral days, is removed. I'm taking lots of features into account for example reducing the time of calibration, providing multi-sensory experiences upto 1000 channels, etc. TODO list is to include computational methods involved in order to check the safety factor and carryout soil classification at real-time.<br>
+
+Simultaneously, as a consultant, I'm developing a new outdoor positioning system which does not rely on GPS/GNSS data any more! I'm sure you are thinking now, how comes! It's true and possible so I wish I can share more in future. I have done the architecture design and and implementation is in progress usinf embedded C/C++<br>
+
+# 🌱 What I'm doing now as a researcher
+In terms of my research interests, I'm looking forward to collaborating more with seniors for publications on geotechnical, structural and earthquake engineeing.
 
 <!--
 **mshadlou/mshadlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
