@@ -9,6 +9,7 @@ Simultaneously, as a consultant, I'm developing a new outdoor positioning system
 
 ## 🌱 What I'm doing now as a researcher
 In terms of my research interests, I'm looking forward to collaborating more with seniors for publications on geotechnical, structural and earthquake engineeing.
+🔭 <a href="https://scholar.google.co.uk/citations?user=vvp2E48AAAAJ&hl=en">Google Scholar</a>
 
 <!--
 **mshadlou/mshadlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
