@@ -1,5 +1,5 @@
 # Hi there 👋
-I'm an effective learner, quickly adapdable, teamworker, software engineer, and researcher.<br> 
+I'm an effective learner, quickly adapdable, teamworker, lover of creativity/novelty, software engineer, and researcher.<br> 
 Here I share the codes I developed for my publications, workes I did for clients as a software engineering consultant [clearly not whole works, just parts to share the experiences only], and the teaching courses I delivered so far.
 
 ## 🌱 What I'm doing now as a software engineer
