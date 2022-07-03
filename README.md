@@ -7,11 +7,12 @@ I am doing full-time software engineering at the moment using C# and .NET for th
 
 Simultaneously, as a consultant, I'm developing a new outdoor positioning system which does not rely on GPS/GNSS data anymore! I'm sure you are thinking now, how comes! It's true and possible so I wish I can share more in future. I have finished the architecture design and implementation is in progress using embedded C/C++<br>
 
+<!--
 ## 🌱 What I'm doing now as a researcher
 In terms of my research interests, I'm looking forward to collaborating more with seniors for publications on geotechnical, structural and earthquake engineeing.
 🔭 <a href="https://scholar.google.co.uk/citations?user=vvp2E48AAAAJ&hl=en">Google Scholar</a>
 
-<!--
+
 **mshadlou/mshadlou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
